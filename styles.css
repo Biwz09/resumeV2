@@ -1,0 +1,56 @@
+body{
+  margin: 0px;
+  text-align:center;
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+  background-size: cover;
+  font-family: cursive;
+}
+.B0{
+   /* background-color: white; */
+   height: 100px;
+   position: relative;
+   padding-top:10px;
+   padding-right: 1000px;
+}
+u{
+  color: rgb(255, 225, 0);
+}
+.B1{
+  background-image: url("https://คลังสื่อการสอน.com/wp-content/uploads/2022/03/274537190_155787706813976_5315462044100187449_n-1024x576.png");
+  color: yellow;
+}
+.C1{
+  position: absolute;
+}
+.C0{
+ position:absolute;
+ border:3rem;
+}
+/* .navbar-brand{
+  background-color: #4682B4;
+} */
+/* .collapse navbar-collapse{
+  background-color: yellowgreen;
+} */
+.CAI{
+  font-size: 40px;
+  font-family:Noto+Sans+Thai;
+  margin-bottom: 50px;
+}
+.name{
+  margin-bottom: 50px;
+
+}
+
+.skill{
+  width:10%;
+  margin: 0 auto;
+}
+
+.hr1{position: relative;
+top: 20px;
+border: none;
+height: 12px;
+background: black;
+margin-bottom: 50px;}
